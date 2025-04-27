@@ -24,13 +24,13 @@ Team Name: Wellocity
 
 Team Members:
 
-Prasanna Kumar (LinkedIn: https://www.linkedin.com/in/prasanna-kumar-a30920249/)
+Prasanna Kumar M N (LinkedIn: https://www.linkedin.com/in/prasanna-kumar-a30920249/)
 
-HariHaran (LinkedIn: https://www.linkedin.com/in/hariharan-k-s-06b34725a/)
+HariHaran K S (LinkedIn: https://www.linkedin.com/in/hariharan-k-s-06b34725a/)
 
-Charunivedida (LinkedIn: )
+Shyam J (LinkedIn:)
 
-Shyam (LinkedIn:)
+Charunivedida A N (LinkedIn: )
 
 Our Approach:
 We selected this problem because we saw a strong need for accessible and intelligent healthcare services.
